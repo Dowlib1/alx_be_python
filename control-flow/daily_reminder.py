@@ -24,3 +24,4 @@ else:
 
 # Print the customized reminder
 print(f"\nReminder: {reminder}")
+print("Well done on completing this project! Let the world hear about this milestone achieved.")
