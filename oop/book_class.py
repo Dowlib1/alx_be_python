@@ -1,5 +1,5 @@
 class Book:
-    def _init__(self, title, author, year):
+    def __init__(self, title, author, year):
         self.tittle = title
         self.author = author
         self.year = year
